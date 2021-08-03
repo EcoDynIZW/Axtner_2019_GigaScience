@@ -2,10 +2,7 @@
 
 A series of bash and R scripts used in:
 
-Axtner, J., Crampton-Platt, A., Hoerig, L.A., Xu, C.C.Y., Yu, D.W., Wilting, A. (2018).
-An efficient and improved laboratory workflow and tetrapod database for larger scale eDNA studies. bioRxiv 345082. doi:https://doi.org/10.1101/345082.
-
-Available from [bioRxiv](https://www.biorxiv.org/content/early/2018/06/12/345082).
+Jan Axtner, Alex Crampton-Platt, Lisa A Hörig, Azlan Mohamed, Charles C Y Xu, Douglas W Yu, Andreas Wilting, An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies, GigaScience, Volume 8, Issue 4, April 2019, giz029, https://doi.org/10.1093/gigascience/giz029
 
 Provides a complete analysis pipeline for paired-end Illumina metabarcoding data, from processing of twin-tagged raw reads through to taxonomic classification with *PROTAX*.
 

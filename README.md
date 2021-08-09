@@ -8,9 +8,7 @@ Our metabarcoding workflow should help research groups increase the robustness o
 
 ## ScreenForBio metabarcoding pipeline
 
-A series of bash and R scripts used in:
-
-Jan Axtner, Alex Crampton-Platt, Lisa A Hörig, Azlan Mohamed, Charles C Y Xu, Douglas W Yu, Andreas Wilting, An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies, GigaScience, Volume 8, Issue 4, April 2019, giz029, https://doi.org/10.1093/gigascience/giz029
+A series of bash and R scripts used in [Axtner et al. 2019 "An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies"](https://doi.org/10.1093/gigascience/giz029).
 
 Provides a complete analysis pipeline for paired-end Illumina metabarcoding data, from processing of twin-tagged raw reads through to taxonomic classification with *PROTAX*.
 

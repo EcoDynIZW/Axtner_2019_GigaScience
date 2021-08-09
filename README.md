@@ -1,4 +1,4 @@
-# Marescot, Franz, Benhaiem et al. 2021 Journal of Animal Ecology
+# Axtner et al. 2019 GigaScience
 
 > Jan Axtner, Alex Crampton-Platt, Lisa A Hörig, Azlan Mohamed, Charles C Y Xu, Douglas W Yu & Andreas Wilting (2019) "An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies" GigaScience 8(4):giz029. DOI: [10.1111/1365-2656.13555](https://doi.org/10.1093/gigascience/giz029)
 

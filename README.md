@@ -1,6 +1,6 @@
 # Axtner et al. 2019 *GigaScience*
 
-> Jan Axtner, Alex Crampton-Platt, Lisa A Hörig, Azlan Mohamed, Charles C Y Xu, Douglas W Yu & Andreas Wilting (2019) "An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies" GigaScience 8(4):giz029. DOI: [10.1111/1365-2656.13555](https://doi.org/10.1093/gigascience/giz029)
+> Jan Axtner, Alex Crampton-Platt, Lisa A Hörig, Azlan Mohamed, Charles C Y Xu, Douglas W Yu & Andreas Wilting (2019) "An efficient and robust laboratory workflow and tetrapod database for larger scale environmental DNA studies." *GigaScience* 8(4):giz029. DOI: [10.1111/1365-2656.13555](https://doi.org/10.1093/gigascience/giz029)
 
 The use of environmental DNA for species detection via metabarcoding is growing rapidly. We present a co-designed lab workflow and bioinformatic pipeline to mitigate the 2 most important risks of environmental DNA use: sample contamination and taxonomic misassignment. These risks arise from the need for polymerase chain reaction (PCR) amplification to detect the trace amounts of DNA combined with the necessity of using short target regions due to DNA degradation.  
 Our metabarcoding workflow should help research groups increase the robustness of their results and therefore facilitate wider use of environmental and invertebrate-derived DNA, which is turning into a valuable source of ecological and conservation information on tetrapods.
